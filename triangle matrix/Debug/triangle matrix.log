@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Class.cpp
+  triangle matrix.cpp
+  Создание кода...
+D:\repos\triangle matrix\Class.cpp(385): warning C4715: matrix::operator==: значение возвращается не при всех путях выполнения
+D:\repos\triangle matrix\Class.cpp(410): warning C4715: matrix::operator!=: значение возвращается не при всех путях выполнения
+  triangle matrix.vcxproj -> D:\repos\triangle matrix\Debug\triangle matrix.exe
